@@ -65,5 +65,21 @@
       "source": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/hochsal_field.jpg",
       "note": "JPEG optimized for browser, 8192 x 4096"
     }
+  ],
+  "generated_assets": [
+    {
+      "file": "heroine-face.png",
+      "source": "Generated avatar artwork based on a user-provided reference, published at user request.",
+      "note": "Original reference photograph is not included. Not part of the Poly Haven CC0 assets."
+    }
+  ],
+  "third_party_models": [
+    {
+      "file": "heroine-rig.glb",
+      "license": "CC0-1.0",
+      "provider": "Innerscene, adapted from MakeHuman CC0 assets",
+      "source": "https://www.innerscene.com/tools/library/3d-parts/female-base-mesh-3d-person-rigged-a-pose-dba97ed5",
+      "modifications": "Torso triangles hidden under the red dress removed. Rest pose, materials, face projection, hair, dress and shoes adapted in heroine.js."
+    }
   ]
 }
